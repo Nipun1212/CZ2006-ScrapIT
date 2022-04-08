@@ -135,7 +135,8 @@ Widget pointPage(BuildContext context) {
     textAlign: TextAlign.center,
     style: TextStyle(color: Colors.white.withOpacity(1.0),fontSize: 25, fontWeight: FontWeight.bold),),
 
-    )
+    ),
+      Image.asset('assets/noAva.jpg', height: 300,    width: 300,),
 
 
     ],
